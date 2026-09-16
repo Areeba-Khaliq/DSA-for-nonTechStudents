@@ -39,3 +39,21 @@ class CircularQueue:
 
     def display(self):
         print(self.queue)
+
+
+q = CircularQueue(5)
+
+q.enqueue(10)
+q.enqueue(20)
+q.enqueue(30)
+q.enqueue(40)
+
+q.display()
+
+print(q.dequeue())
+print(q.dequeue())
+
+q.enqueue(50)
+q.enqueue(60)
+
+q.display()
