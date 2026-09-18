@@ -1,23 +1,22 @@
-# HashMap ,Assignment # 4, week 2 of DSA
-## Q1. Implement a Simple HashMap
-Create a HashMap class using a Python list of fixed size.
-Implement the following methods:
-put(key, value) - add a key-value pair
-get(key) - return the value associated with the key
-display() - display all stored key-value pairs
-## Q2. Find the Hash Index
-Suppose the hash table size is 10. Calculate the hash index for each key:
-"Ali"
-"Sara"
-"Ahmed"
-"John"
-Show the final index.
-## Q3. Trace a HashMap
-Given a hash table of size 5 and:
-index = sum(ord(char) for char in key) % 5
-Insert these pairs in order:
-("AB", 10)
-("BA", 20)
-("CD", 30)
-("DC", 40)
+# Assignment # 3, Week 2 of DSA
+# LinkedList 
+## Q1. Insert at Beginning
+Create a singly linked list containing:
+10 → 20 → 30 → None
+Write Python code to insert 5 at the beginning.
+What will be the final linked list?
+## Q2. Insert at End
+Create a singly linked list:
+15 → 25 → 35 → None
+Write Python code to insert 45 at the end.
+What will be the final linked list?
+## Q3. Delete from End
+Given the linked list:
+10 → 20 → 30 → 40 → None
+Write Python code to delete the last node.
+What will be the final linked list?
+## Q4. Doubly Linked List Traversal
+Create a doubly linked list:
+10 ⇄ 20 ⇄ 30 ⇄ 40
+Write Python code to traverse the list using next and print all the elements.
 
