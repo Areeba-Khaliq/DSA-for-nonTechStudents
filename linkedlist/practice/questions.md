@@ -1,4 +1,3 @@
-# Assignment # 3, Week 2 of DSA
 # LinkedList 
 ## Q1. Insert at Beginning
 Create a singly linked list containing:
