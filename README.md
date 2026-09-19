@@ -10,8 +10,6 @@ The classes were conducted through a **non-profit organization based in Silicon 
 * Queue
 * Linked List
 * Hashmap
-* Recursion
-* Basic Sorting Algorithms
 * Related concepts, operations, and practice questions
 
 The repository includes the **Python implementations, lecture slides, class recordings, and practice material** for these topics.
